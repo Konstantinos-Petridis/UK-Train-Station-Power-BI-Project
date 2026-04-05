@@ -25,7 +25,7 @@ The dataset consists of ticket transaction data, which has been modeled and visu
 - Finally, this report (specifically the Data Model part) was created by following the Guided Project course in Microsoft Power BI by Data Tutor.
 
 ## Key Insights
-- The data shows a total revenue of 741K from 31,619 tickets over the period December 2023 - April 2024 with an average price of £23.44. This indicates a relatively affordable pricing structure.
+- The data shows a total revenue of £741K from 31,619 tickets over the period December 2023 - April 2024 with an average price of £23.44. This indicates a relatively affordable pricing structure.
 - Advance-ticket type has the highest share (42%), suggesting that a significant portion of customers prefer booking in advance to secure lower prices.
 - Revenues appear relatively stable after mid-March, due to the normalization of travel patterns.
   
